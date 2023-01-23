@@ -8,7 +8,7 @@ public class CustomerTest2 {
 	@Test 
 	public void a() {
 		Reporter.log("a", true);
-		System.out.println("abc");
+		System.out.println("123");
 		
 	}
 }
