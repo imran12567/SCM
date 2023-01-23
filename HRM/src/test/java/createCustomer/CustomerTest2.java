@@ -9,7 +9,6 @@ public class CustomerTest2 {
 	public void a() {
 		Reporter.log("a", true);
 		System.out.println("abc");
-		System.out.println("abc");
 		
 	}
 }
