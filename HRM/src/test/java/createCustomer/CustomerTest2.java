@@ -8,8 +8,6 @@ public class CustomerTest2 {
 	@Test 
 	public void a() {
 		Reporter.log("a", true);
-//		Reporter.log(System.getProperty("username"), true);
-//		Reporter.log(System.getProperty("password"), true);
 		System.out.println("abc");
 		
 	}
